@@ -2,3 +2,10 @@ Form{
     margin: 15px auto;
     width: 350px;
 }
+.like-i{
+    position: absolute;
+    right: 10px;
+    bottom: 5px;
+    width: 20px;
+    height: 20px;
+}
